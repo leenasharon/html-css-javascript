@@ -1,0 +1,217 @@
+ul{
+  list-style-type: none;
+   background-color: beige;
+   font-size: larger;color: black;
+   height: 80px;
+   width: 100%;
+   overflow: hidden;
+   margin-top: auto;
+
+}
+li{
+    float: left;
+    padding: 20px;
+}
+.kit ul{
+    list-style-type: none;
+   background-color: ghostwhite;
+    font-size: larger;color: black;
+    height: 150px;
+    width: 100%;
+    overflow: hidden;
+}
+.kit li{
+    float: left;
+    padding: 20px;
+}
+.git{
+   background-color: lightgray;
+   font-size: large;color: black;
+   text-align: center;  
+}
+.jit {
+    background-image: url(apple.png);padding-right: 20px;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    height: 600px;
+    width: 1500px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 190px;
+    padding-left: 30px;  
+}
+button{
+    border-radius: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    color: blue;
+}
+.in {
+    text-align: center;
+} 
+.tree{
+    background-image: url(you.webp);
+    background-repeat: no-repeat;
+   
+    height: 600px;
+    width: 1500px;
+}
+.tamil {
+   text-align: left;
+    float: left;
+   padding-left: 80px;
+   height: 700px;
+   width: 400px;   
+}
+.tiger{
+    border: 1px solid black;
+    background-image: url(one.jpeg);
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 100%;
+   text-align: left;
+   padding-left: 95px;
+   font-size: xx-large;color: darkblue;
+}
+.iphone{
+   font-size: xx-large;
+   text-align: center;
+}
+
+
+.pokemon{
+   font-size: large;
+   padding-left: 70px;
+   text-align: center;
+}
+.pokemon{
+    font-size: larger;
+    float: left;
+}
+.pokemon{
+    font-size: larger;
+    float: left;
+}
+.rose{
+    text-align: center;
+    color: brown;
+    font-size: xx-large;
+}
+.bill{
+    font-size: xx-large;
+}
+
+.chan{
+    padding-left: 50px;
+}
+.chan{
+    float: left;
+    padding-left: 60px;    
+
+}
+.eyes{
+  
+    font-size: xx-large;
+    text-align: center;
+    color: black
+}
+.city{
+    float: left;
+    margin: 10px;
+    height: 500px;
+    width: 500px;
+    padding-left: 80px;
+  background-color: blanchedalmond;
+}
+.city{
+    padding-left: 80px;
+    float: left;
+    height: 500px;
+    width: 500px;
+    background-color: blanchedalmond ;
+
+}
+.nose{
+    text-align: center;
+    font-size: xx-large;
+}
+.gion{
+    padding-left: 40px;
+}
+.gion{
+    float: left;
+    height: 400px;
+    width: 400px;
+}
+
+.gion{
+    float: left;
+   
+}
+.mouth{
+   border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-color: darkgray;
+    font-size: xx-large;
+    text-align: center;
+}
+.ears{
+    float: left;
+    height: 400px;
+    width: 400px;
+    padding-left: 90px;
+}
+.ears{
+    float: left;
+}
+.teeth{
+    background-color:black;
+    border: 1px solid black;
+    height: 360px;
+    width: 100%; 
+    text-align: center; 
+    font-size: xx-large; 
+    color: aliceblue;
+}
+.hand{
+    border: 1px solid black;
+    width: 100%;
+    height: 250px;
+    float: left;
+    padding-left: 5px;
+    background-color: black;
+}
+.bag{
+    border: 1px solid black;
+    width: 100%;
+    height: 250px;
+    float: left;
+    padding-left: 5px;
+    background-color:black;
+
+}
+.san{
+    text-align: center;
+}
+.table{
+    width: 100%;
+    height: 30px;
+}
+.table,th,td{
+   border: 1px solid white;
+    border-collapse: collapse;
+    
+}
+.th,td{
+    padding-left: 20px;
+}
+.throw{
+    padding-left: 260px;
+    border: 1px solid white;
+    width: 100%;
+    height: 50px;
+}
