@@ -1,0 +1,100 @@
+.background{
+   background: url(leo.jpeg) repeat;
+   border: 2px solid black;
+   height: 550px;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.second{
+    float: right;
+    font-size: x-large;
+}
+.stuart{
+    font-size: xx-large;
+    color: aliceblue;
+    padding-top: 70px;
+    text-align: center;
+}
+.san{
+    height: 150px;
+    width: 20%;
+    font-size: xx-large;
+    border-radius: 10px;
+}
+.mon{
+    height: 150px;
+    width: 20%;
+    font-size: xx-large;
+    border-radius: 10px;  
+}
+.tue{
+    height: 150px;
+    width: 20%;
+    font-size: xx-large;
+    border-radius: 10px;
+}
+.wed{
+    height: 150px;
+    width: 20%;
+    font-size: xx-large;
+    border-radius: 10px;
+} 
+.thur{
+    font-size: xx-large;
+    color: aqua;
+    text-align: center;
+}
+.fri{
+   height: 800px;
+   width: 95%;
+  border-radius: 50px;
+   background-color: azure;
+   padding-left: 80px;
+} 
+.fri{
+    font-size: xx-large;
+    color: black;
+    padding-top: 20px;
+} 
+.sat{
+    margin-bottom: 10px;
+    float: right;
+    height: 90px;
+    width: 200px;
+    border-radius: 50px;
+    font-size: xx-large;
+}
+.luke{
+    font-size: xx-large;
+    color: darkslategrey;
+}
+.sha{
+    float: right;
+    padding-right: 400px;
+   padding-bottom: 100px;
+   padding-left: 100px;  
+}
+.rosh{
+    background-color: black;
+}
+.steven{
+    float: right;
+    font-size: xx-large;
+    color: blue;
+}
+.saa{
+ padding-left: 800px;
+  
+}
+.sandy4{
+    color: blueviolet;
+}
+.sandy7{
+   border: solid black;
+   height: 200px;
+   border-radius: 20px;
+   text-align: center;
+   padding-bottom: 30px;
+   margin-right: 100px;
+
+}
